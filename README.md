@@ -1,0 +1,1 @@
+# moneysplain-assets
